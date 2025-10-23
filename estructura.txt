@@ -1,0 +1,12 @@
+├─ data/
+│  └─ disaster_tweets.csv          # dataset Kaggle de tweets (lo pones tú)
+├─ src/
+│  ├─ Assignment1_NLP_SVM_Trees.ipynb   # único notebook con Part A, B y C
+│  └─ README.md                    # (opcional) resumen escrito si no usas muchas celdas Markdown
+├─ notebooks_referencia/           # (opcional) donde pondrás los 01_ y 02_ que me enviaste
+│  ├─ 01_GDA_SVM_Kernels.ipynb
+│  └─ 02_Naive_Bayes_Decision_Trees.ipynb
+├─ requirements.txt
+├─ .gitignore
+└─ estructura.txt
+└─ README.md 
