@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+.profile
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data/intermediate
+*.log
+*.tmp
+*.cache/
+*.csv.zip
+*.parquet
+
+# Plots/figures (si generas muchas)
+figures/*
+!figures/.gitkeep
+
+# VSCode
+.vscode/
