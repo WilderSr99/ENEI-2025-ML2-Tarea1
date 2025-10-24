@@ -1,9 +1,20 @@
-├─ data/
-│  └─ disaster_tweets.csv          # dataset Kaggle de tweets (lo pones tú)
-├─ src/
-│  ├─ Assignment1_NLP_SVM_Trees.ipynb   # único notebook con Part A, B y C
-│  └─ README.md                    # (opcional) resumen escrito si no usas muchas celdas Markdown 
-├─ .gitignore
-└─ estructura.txt
-└─ requirements.txt
-└─ README.md 
+
+├── data/
+│   ├── disaster_tweets.csv
+│   └── README.md
+├── src/
+│   ├── ParteA_NLP_Tweets.ipynb
+│   ├── ParteB_SVM_Overfitting.ipynb
+│   ├── ParteC_RegressionTree.ipynb
+│   └── utils/
+│       ├── __init__.py
+│       ├── preprocessing.py
+│       ├── metrics.py
+│       ├── visualization.py
+│       └── model_utils.py
+├── report/
+│   └── README.md
+├── figures/
+│   └── (vacío por ahora)
+└── requirements.txt
+
