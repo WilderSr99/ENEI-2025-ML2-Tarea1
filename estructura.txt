@@ -12,9 +12,6 @@
 │       ├── metrics.py
 │       ├── visualization.py
 │       └── model_utils.py
-├── report/
-│   └── README.md
-├── figures/
-│   └── (vacío por ahora)
+|
 └── requirements.txt
 
