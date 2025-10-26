@@ -61,4 +61,4 @@ Los **procedimientos detallados, código y visualizaciones** se encuentran en la
  *Los resultados completos y gráficos se encuentran en los notebooks `.ipynb` del repositorio.*
 
 ---
- *Elaborado como parte del Assignment 1 — ENEI-2025-ML2: Machine Learning II.*
+ *Elaborado como parte del Assignment 1 - ENEI-2025-ML2: Machine Learning II.*
