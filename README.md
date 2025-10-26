@@ -21,7 +21,7 @@ Los **procedimientos detallados, código y visualizaciones** se encuentran en la
 
 ---
 
-## Parte A — Clasificación de Tweets  
+## Parte A - Clasificación de Tweets  
 **Objetivo:** predecir si un tweet corresponde a un desastre real.  
 - Representación: *Bag of Words binario* (292 palabras).  
 - Modelos: Regresión Logística (sin, L1, L2) y Bernoulli NB.  
@@ -32,7 +32,7 @@ Los **procedimientos detallados, código y visualizaciones** se encuentran en la
 
 ---
 
-## Parte B — SVM y parámetro C  
+## Parte B - SVM y parámetro C  
 **Objetivo:** estudiar el efecto del parámetro `C` en el desempeño y sobreajuste del modelo.  
 - Datos simulados con dos clases apenas separables.  
 - Errores mínimos (~4%) para valores de **C entre 1 y 10**.  
@@ -43,7 +43,7 @@ Los **procedimientos detallados, código y visualizaciones** se encuentran en la
 
 ---
 
-## Parte C — Árboles de Regresión (*Carseats*)  
+## Parte C - Árboles de Regresión (*Carseats*)  
 **Objetivo:** predecir `Sales` (ventas) a partir de variables como `Price`, `ShelveLoc`, `Advertising`, `Age` e `Income`.  
 - Árbol base: *MSE train = 0.000*, *MSE test = 4.35* → sobreajuste total.  
 - Árbol podado (`ccp_alpha = 0.0493`): *MSE train = 1.45*, *MSE test = 4.27* → mejor equilibrio.  
