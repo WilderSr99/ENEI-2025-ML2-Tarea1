@@ -4,9 +4,10 @@
 **Curso:** *2025-G1-910040-4-PEUCD-MACHINE LEARNING II*  
 ---
 ## Integrantes del grupo
-	- Buleje Ticse, Jean Carlos
-	- Rosales Chuco, Noel Ivan
-	- Sebastian Rios, Wilder Teddy
+
+- *Buleje Ticse, Jean Carlos*
+- *Rosales Chuco, Noel Ivan*
+- *Sebastian Rios, Wilder Teddy*
 
 ---
 
